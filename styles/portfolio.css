@@ -242,4 +242,7 @@ footer {
     #what-i-do-description {
         padding: 0px;
     }
+    .resume-container {
+        flex-direction: column;
+    }
 }
