@@ -245,4 +245,17 @@ footer {
     .resume-container {
         flex-direction: column;
     }
+    footer {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .footer-column {
+        width: 100%;
+    }
+    .contact-form input[type="text"], input[type="email"], textarea {
+        width: 80%;
+    }
+    .social-links {
+        text-align: center;
+    }
 }
